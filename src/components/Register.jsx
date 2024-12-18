@@ -80,7 +80,7 @@ const Register = () => {
   };
 
   return (
-    <div className="form-container mt-5">
+    <div className="form-container my-14">
       <div className="form-heading">
         <h1 className="text-2xl font-light">Register</h1>
         <h3 className="text-base font-extralight">

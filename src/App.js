@@ -7,7 +7,7 @@ import Main from './components/Main';
 export default function App() {
   return (
     <Router>
-      <div className="Container mx-auto px-10 py-8 min-h-screen w-full">
+      <div className="Container mx-auto px-10 min-h-screen w-full">
         <Routes>
           <Route path="/register" element={<Register />} />
           <Route path="/login" element={<Login />} />
